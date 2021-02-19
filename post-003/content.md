@@ -21,8 +21,7 @@ This article will cover everything you need to know about creating a YouTube cha
 
 ### Can't create a new channel?
 
-If you're seeing a "This action isn't allowed" message when you try to create your channel, you may be using an outdated version of the YouTube app. Change for Ameet.
-
+If you're seeing a "This action isn't allowed" message when you try to create your channel, you may be using an outdated version of the YouTube app. Robert.
 Here are your options to move forward:
 
 1. Update the YouTube app on your device.
