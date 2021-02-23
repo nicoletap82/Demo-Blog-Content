@@ -20,7 +20,7 @@ Webinar scripts can also include timing details (to ensure your guests don’t v
 
 ### Why write a webinar script?
 
-Webinar scripts are valuable because they help keep your webinar valuable. Without proper planning, it’s easy to lose your train of thought due to nervousness, excitement, or perhaps an audience question. Aici am editat acum!
+Webinar scripts are valuable because they help keep your webinar valuable. Without proper planning, it’s easy to lose your train of thought due to nervousness, excitement, or perhaps an audience question. Aici am editat acum - din nou!
 
 Writing a script for your webinar ahead of time also allows you to decide on the goal of your webinar. Think:
 
