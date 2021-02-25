@@ -1,5 +1,3 @@
-![IBM](_images/IBM.jpg)
-
 The term blog comes from the combination of "web" and "log" or "weblog," and was eventually shortened to "blog."
 
 In the 1990s when blogs first appeared, they were primarily online diaries, where people would provide personal accounts of their lives. They since have grown to include writing and media on topics such as news, politics, music, food, business, and much more—there are even blogs about blogging.
