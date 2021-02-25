@@ -1,4 +1,4 @@
-![IBM](_images/IBM.png)
+![IBM](_images/IBM.jpg)
 
 The term blog comes from the combination of "web" and "log" or "weblog," and was eventually shortened to "blog."
 
