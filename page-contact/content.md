@@ -1,7 +1,7 @@
 # Contact
 
-## Email 
-#### classicblog@mailinator.com
+#### Email 
+classicblog@mailinator.com
 
-## Phone
-#### 212-555-5555
+#### Phone
+212-555-5555
