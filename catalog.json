@@ -12,7 +12,7 @@
      ]
    },
    "previewers": {},
-   "info": {"header": "_images/header.png", "title": "My Cool Blog 1"},
+   "info": {"header": "_images/header.png", "title": "My cool blog"},
    "search": {
      "fields": [
 	   "document.title",
