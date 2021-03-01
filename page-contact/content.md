@@ -1,3 +1,7 @@
-# Contact Page
+# Contact
 
-This was updated now.
+## Email 
+#### classicblog@mailinator.com
+
+## Phone
+#### 212-555-5555
