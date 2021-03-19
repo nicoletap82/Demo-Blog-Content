@@ -3,25 +3,31 @@
    "owners": {
       "dRIo3cR": [
          "all"
+      ],
+      "XrLdehW": [
+         "all"
       ]
    },
    "editors": {},
    "viewers": {
-     "all": [
-       "all"
-     ]
+      "all": [
+         "all"
+      ]
    },
    "previewers": {},
-   "info": {"header": "_images/header.png", "title": "My cool blog"},
+   "info": {
+      "header": "_images/header.png",
+      "title": "My cool blog"
+   },
    "search": {
-     "fields": [
-	   "document.title",
-	   "document.description",
-	   "document.keywords"
-	 ],
-	 "filters": [
-	   "document.category"
-	 ]
+      "fields": [
+         "document.title",
+         "document.description",
+         "document.keywords"
+      ],
+      "filters": [
+         "document.category"
+      ]
    },
    "attachmentsBaseFolder": "{catalogId}"
 }
